@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Developing Drools and jBPM
 ==========================
 
@@ -10,5 +10,5 @@ It also describes all guidelines, tips and tricks.
 If you want your pull requests (or patches) to be merged into master, please respect those guidelines.
 =======
 # droolsjbpm-integration-beatcoding-version-6.2.0.Final
-droolsjbpm-integration-beatcoding-version-6.2.0.Final Include new method for rest-api, allow start tasks with userId param
->>>>>>> 1fb72448c10cb2f8b6236c0acacf85c502ae4ffb
+Include new method for rest-api, allow start tasks with userId param
+
